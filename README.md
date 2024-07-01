@@ -3,6 +3,17 @@
 
 Customer segmentation is a crucial strategy for businesses to understand and target different customer groups effectively. This project demonstrates how to segment customers based on their purchasing behavior using Python and various data science techniques.
 
+The project provides a structured and data-driven approach to customer segmentation two techniques:
+
+**RFM Analysis:** This framework assesses customer behavior based on:
+**Recency:** How recently a customer made a purchase.
+
+**Frequency:** How often a customer makes a purchase.
+
+**Money Spent:** How much money a customer spends.
+
+**K-Means Clustering:** A machine learning algorithm that segments customers into clusters based on their RFM scores, revealing patterns and groups in customer behavior.
+
 **Features**
 
 

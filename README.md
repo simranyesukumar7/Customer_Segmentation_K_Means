@@ -6,9 +6,9 @@ Customer segmentation is a crucial strategy for businesses to understand and tar
 The project provides a structured and data-driven approach to customer segmentation two techniques:
 
 **RFM Analysis:** This framework assesses customer behavior based on:
-**Recency:** How recently a customer made a purchase.
+**Recent Customers:** How recently a customer made a purchase.
 
-**Frequency:** How often a customer makes a purchase.
+**Frequent Customers:** How often a customer makes a purchase.
 
 **Money Spent:** How much money a customer spends.
 
